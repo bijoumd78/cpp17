@@ -1,8 +1,12 @@
 #include <iostream>
 
 int main(){
-
-std::cout << "Hello, Travis-ci!\n":
+  
+  int a[] = { 0, 1, 2 };
+  
+   a[3] = 4;
+  
+  std::cout << "Hello, Travis-ci!\n":
 
 return 0;
 }
